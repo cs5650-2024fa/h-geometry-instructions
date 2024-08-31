@@ -380,5 +380,4 @@ This script is attached to the game object to be rotated. The values of the thre
 # Good luck
 
 Remember to follow the submission instructions.
-#   t e s t - i n s t r u c t i o n s  
- 
+#
