@@ -7,7 +7,7 @@
 **Before you start**
 - See Canvas for due date, repository link, and grading rubric. 
 - Read the assignment instructions (this document) carefully, from start to finish. 
-- Read the **[submission instructions](../submission-instructions/submission-instructions.md)** carefully from start to finish.
+- Read the **[submission instructions](../../../submission-instructions/submission-instructions.md)** carefully from start to finish.
 - Watch the solution video.
 - This assignment assumes basic knowledge of C# and fundamental Unity concepts. See the *Resources* page on Canvas for more information.
 - This assignment assumes you have set up the Unity Editor and the development environment as required. See the *Resources* page on Canvas for more information.
@@ -380,5 +380,6 @@ This script is attached to the game object to be rotated. The values of the thre
 # Good luck
 
 Remember to follow the submission instructions.
-#   t e s t - i n s t r u c t i o n s  
+#   t e s t - i n s t r u c t i o n s 
+ 
  
